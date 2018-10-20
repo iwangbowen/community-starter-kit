@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+GUI Builder is a drag and drop ui builder to help developers create static web pages faster
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Draggable widgets
+- Resizable widgets
+- Drag and drop components into widgets
+- Configure components attributes
+- Generate JavaScript code
+- Save automatically
+- Edit different web pages at the same time
+- Download created web pages and upload them to edit again 
 
 ## Getting started
 
