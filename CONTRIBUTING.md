@@ -10,11 +10,11 @@ We :heart: contributions from our community! Thank you for taking the time to re
 
 There are many ways you can help us make this project better. Every repository is different and our goal is to create an app that is flexible enough to help most repositories, while still being easy for new app users to grok. If you would like to help, we use labels to organize the work that needs to be done. Look for the labels that fit your expertise:
 
-- **development-needed**: DESCRIPTION PLACEHOLDER checked
-- **qa-needed**: DESCRIPTION PLACEHOLDER checked
-- **documentation-needed**: DESCRIPTION PLACEHOLDER checked
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER checked
-- **bug-low-priority**: DESCRIPTION PLACEHOLDER checked
-- **help-wanted**: DESCRIPTION PLACEHOLDER checked
+- **development-needed**: checked
+- **qa-needed**: checked
+- **documentation-needed**: checked
+- **bug-high-priority**: checked
+- **bug-low-priority**: checked
+- **help-wanted**: checked
 
 You can also help by translating documentation and reviewing open pull requests.
